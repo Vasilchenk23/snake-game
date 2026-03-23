@@ -27,7 +27,7 @@
 
 1. **Клонувати репозиторій:**
    ```bash
-   git clone [посилання-на-твій-репозиторій]
+   git clone https://github.com/Vasilchenk23/snake-game/
    cd snake-game-react
    ```
 
